@@ -1,4 +1,4 @@
-> **Note on Security:** For security reasons, the sensitive credentials in this code (WiFi SSID, Password, and ThingSpeak API Keys) have been replaced with placeholders. To run this project locally, please replace these strings with your own network and channel details.
+//Note on Security: For security reasons, the sensitive credentials in this code (WiFi SSID, Password, and ThingSpeak API Keys) have been replaced with placeholders. To run this project locally, please replace these strings with your own network and channel details.
 
 #include <WiFiNINA.h>
 #include <Wire.h>
